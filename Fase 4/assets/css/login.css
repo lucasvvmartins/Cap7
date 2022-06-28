@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville&display=swap');
+
+body{
+    background: linear-gradient(#fcfcfc, #153b2d);
+    background-size: cover;
+}
+
+.containerbotao{  
+    display: flex;
+    justify-content: space-around;
+    align-items: flex-end;
+    padding-top: 200px;
+}
+.containerbotao a{
+    text-decoration: none;
+}
+.containerlogo{
+    display: flex;
+    justify-content: center;
+}
+.alinhartext{
+    display: flex;
+    justify-content: center;
+    color: white;
+    font-size: 70px;
+    font-family: 'Libre Baskerville', serif;
+}
